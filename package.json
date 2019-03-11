@@ -1,0 +1,31 @@
+{
+  "name": "react-multi-page-app-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": ">=7.5.0"
+  },
+  "author": "krithix",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "extract-text-webpack-plugin": "^2.0.0-rc.3",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.1",
+    "webpack-hot-middleware": "^2.24.3"
+  }
+}
